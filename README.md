@@ -1,9 +1,9 @@
 # summy
 text summarizer utilizing extractive heuristics
 
-WIP features:  interactive knowledge graph
-               android app with visual text recognition through camera
-               geoparsing
+WIP features:  {interactive knowledge graph,
+               android app with visual text recognition through camera,
+               geoparsing}
 
 
 
